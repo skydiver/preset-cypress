@@ -1,0 +1,11 @@
+{
+  "name": "preset-cypress",
+  "version": "1.0.0",
+  "description": "Apply a Cypress preset to you Node project",
+  "license": "MIT",
+  "author": "Martín M.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
