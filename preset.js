@@ -33,3 +33,8 @@ Preset.editJson('package.json')
  * Copy project config files
  */
 Preset.extract().withTitle('Copy project config files').withDots();
+
+/**
+ * Install npm dependencies
+ */
+Preset.installDependencies('node');
